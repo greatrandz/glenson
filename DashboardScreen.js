@@ -1,4 +1,4 @@
 const dashboardScreen = () => {
-    let arrayValue = ['Randolf']
+    let arrayValue = ['Randolf', 'Glenson']
     console.log(arrayValue)
 }
