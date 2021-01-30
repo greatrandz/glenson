@@ -1,5 +1,5 @@
 const dashboardScreen = () => {
-    let arrayValue = ['Randolf']
+    let arrayValue = ['Randolf', 'Glenson']
     const FullNameArray = arrayValue.map(firstname => { 
         return { firstname, lastname: 'Dini-ay' }
     })
